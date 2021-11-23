@@ -3,3 +3,5 @@ Rencana baru
 - Upload file ke github
 - Mebuat web developer
 - Mengedit video
+  * Dengan Adobe Premiere
+  * Dengan Adobe After Effect
