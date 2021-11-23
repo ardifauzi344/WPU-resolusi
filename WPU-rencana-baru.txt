@@ -5,6 +5,7 @@ Rencana baru
 - Mengedit video
   * Dengan Adobe Premiere
   * Dengan Adobe After Effect
+  * Belajar Photoshop
   - Struktur Dasar
   - Frame work Javascript
   - Materei Python
