@@ -2,4 +2,4 @@ wpu Resolusi
 - Belajar mengenai GitHub
 - Belajar Web
 - Lanjut S2
-- Belajar laravel
+- Belajar Design Web
