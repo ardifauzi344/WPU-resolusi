@@ -5,3 +5,4 @@ Rencana baru
 - Mengedit video
   * Dengan Adobe Premiere
   * Dengan Adobe After Effect
+  - Struktur Dasar
