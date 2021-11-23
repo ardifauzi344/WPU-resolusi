@@ -6,3 +6,5 @@ Rencana baru
   * Dengan Adobe Premiere
   * Dengan Adobe After Effect
   - Struktur Dasar
+  - Frame work Javascript
+  - Materei Python
